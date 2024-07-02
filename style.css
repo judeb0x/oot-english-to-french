@@ -1,0 +1,117 @@
+body {
+  font-family: system-ui;
+  background: #DEC8E8;
+  color: #d4a373;
+  text-align: center;
+  width: 640px;
+  height: 2000px;
+  margin: 0 auto;
+  padding-top: 15px;
+  max-height: 100vx;
+}
+
+h {
+   color: #522A65 !important;
+  font-size: 4em !important;
+  font-family: 'Annie Use Your Telescope', cursive;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  word-spacing: -2px; 
+  line-height: 1;
+}
+
+
+li {
+  color: #FFF;
+  display: inline-block;
+  font-family: 'Schoolbell', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 20px 18px 10px 18px;
+  text-transform: uppercase;
+}
+
+
+table {
+  height: 10%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+thead th {
+  background: #B1A0B9;
+  color: #522A65;
+  font-family: 'Schoolbell', sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.british {
+  background: #B1A0B9;
+  color: #522A65;
+  font-family: 'Schoolbell', sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+tr {
+  background: #F1E9F5;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td, .british {
+  font-family: 'Schoolbell', sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  padding: 20px;
+  text-align: center;
+  width: 33.3333%;
+  color: #522A65;
+  font-style: bold;
+}
+
+.slang {
+  font-family: 'PT serif';
+  font-size: 25px;
+  font-weight: 10;
+  padding: 10px;
+  text-align: center;
+  width: 33.3333%;
+  color: #522A65;
+}
+
+.ex {
+  font-family: 'PT serif';
+  font-size: 25px;
+  font-weight: 10;
+  padding: 10px;
+  text-align: center;
+  width: 33.3333%;
+  color: #522A65;
+}
+
+.def {
+  font-family: 'PT serif';
+  font-size: 20px;
+  font-weight: 10;
+  padding: 10px;
+  text-align: center;
+  width: 33.3333%;
+  color: #522A65;
+}
+
+.highlighted-row {
+  border-color: ;
+  box-shadow: 0px 0px 10px rgba(3, 3, 3, 2);
+}
